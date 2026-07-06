@@ -1,8 +1,19 @@
-# cmartinez59.github.io
+# Project 02 – Personal Website
 
-This repository contains my Project 02 personal website.  
-It demonstrates my ability to create and style a webpage using HTML and CSS,  
-and publish it using GitHub Pages.
+This project demonstrates my ability to build and publish a styled personal webpage using HTML, CSS, and GitHub Pages.
 
-## Live Website
-https://cmartinez59.github.io
+## Features
+- Header and navigation
+- About Me section
+- Skills section
+- Contact section
+- Footer with my name and year
+
+## Technologies Used
+- HTML5
+- CSS3
+- GitHub Desktop
+- GitHub Pages
+
+Published at: https://cmartinez59.github.io
+
